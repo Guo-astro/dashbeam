@@ -43,7 +43,11 @@ Una herramienta gratuita y de código abierto para transferir archivos que aprov
 </a>
 &emsp;&emsp;
 <a href="https://vercel.com/open-source-program">
-  <img alt="Vercel OSS Program" src="https://vercel.com/oss/program-badge-2026.svg" width="254" height="80">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/vercel-oss-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="../../assets/vercel-oss-dark.svg">
+    <img src="../../assets/vercel-oss-dark.svg" width="254" height="80" alt="Vercel OSS Program">
+  </picture>
 </a>
 
 </div>

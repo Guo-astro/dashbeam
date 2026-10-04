@@ -28,11 +28,25 @@
 
 </div>
 
-A free and open-source file transfer tool that harnesses the power of [cutting-edge peer-to-peer networking](https://www.iroh.computer), letting you transfer files directly without storing them on cloud servers.
+A free and open-source file transfer tool that harnesses the power of cutting-edge peer-to-peer networking, letting you transfer files directly without storing them on cloud servers.
 
 Why rely on WeTransfer, Dropbox, or Google Drive when you can reliably and easily transfer files directly, end-to-end encrypted and without revealing any personal information?
 
-Pick whichever route is closest to hand: **send a link or a QR code** that opens on any device, **send to a device you paired once**, or **send to a device already on your network**. All three move the same bytes the same way - directly, encrypted end to end.
+<div align="center">
+
+<a href="https://www.testmuai.com" rel="nofollow">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.dashbeam.net/assets/sponsors/testmu-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.dashbeam.net/assets/sponsors/testmu-dark.svg">
+    <img src="https://www.dashbeam.net/assets/sponsors/testmu-dark.svg" height="80" alt="TestMuAI">
+  </picture>
+</a>
+&emsp;&emsp;
+<a href="https://vercel.com/open-source-program">
+  <img alt="Vercel OSS Program" src="https://vercel.com/oss/program-badge-2026.svg" width="254" height="80">
+</a>
+
+</div>
 
 
 ## Features
@@ -123,21 +137,6 @@ More options at [GitHub Releases](https://github.com/tonyantony300/dashbeam/rele
 
 Running into problems? See [Troubleshooting](docs/troubleshooting.md) for common issues and how to collect logs.
 
-
-
-## Partners
-
-<a href="https://www.testmuai.com" rel="nofollow">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.dashbeam.net/assets/sponsors/testmu-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://www.dashbeam.net/assets/sponsors/testmu-dark.svg">
-    <img src="https://www.dashbeam.net/assets/sponsors/testmu-dark.svg" height="80" alt="TestMuAI">
-  </picture>
-</a>
-
-We're looking for Partners to join our mission! Partner with us and support while we push the boundaries of peer-to-peer file transfer.
-
-[**LET'S CHAT**](https://www.dashbeam.net/en/contact)
 
 
 ## Supported Languages
@@ -314,13 +313,6 @@ Thank you for checking out this project! If you find it useful, consider giving 
 
 
 
-## Built on
-
-<div align="left">
-  <a href="https://iroh.computer">
-    <img alt="iroh" src="https://raw.githubusercontent.com/n0-computer/iroh/main/.img/iroh_wordmark.svg" width="200">
-  </a>
-</div>
 
 
 

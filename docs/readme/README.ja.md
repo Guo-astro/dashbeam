@@ -34,21 +34,11 @@ WeTransfer、Dropbox、Google Drive に頼る必要はありますか？DashBeam
 
 <div align="center">
 
-<a href="https://www.testmuai.com" rel="nofollow">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.dashbeam.net/assets/sponsors/testmu-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://www.dashbeam.net/assets/sponsors/testmu-dark.svg">
-    <img src="https://www.dashbeam.net/assets/sponsors/testmu-dark.svg" height="80" alt="TestMuAI">
-  </picture>
-</a>
+<br />
+
+<a href="https://www.testmuai.com" rel="nofollow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.dashbeam.net/assets/sponsors/testmu-light.svg"><source media="(prefers-color-scheme: light)" srcset="https://www.dashbeam.net/assets/sponsors/testmu-dark.svg"><img src="https://www.dashbeam.net/assets/sponsors/testmu-dark.svg" height="80" alt="TestMuAI"></picture></a>
 &emsp;&emsp;
-<a href="https://vercel.com/open-source-program">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../../assets/vercel-oss-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="../../assets/vercel-oss-dark.svg">
-    <img src="../../assets/vercel-oss-dark.svg" width="254" height="80" alt="Vercel OSS Program">
-  </picture>
-</a>
+<a href="https://vercel.com/open-source-program"><picture><source media="(prefers-color-scheme: dark)" srcset="../../assets/vercel-oss-light.svg"><source media="(prefers-color-scheme: light)" srcset="../../assets/vercel-oss-dark.svg"><img src="../../assets/vercel-oss-dark.svg" width="254" height="80" alt="Vercel OSS Program"></picture></a>
 
 </div>
 
